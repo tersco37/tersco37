@@ -8,6 +8,7 @@ Through industry certifications, hands-on labs, Cyber Range internship experienc
 ## 🛡️ Vulnerability Management & Security Operations
 
 - **[Vulnerability Management Program Implementation](https://github.com/tersco37/Vulnerability-Management-Program)** — Cyber Range internship project covering vulnerability assessments, Tenable scanning, PowerShell remediation, and remediation validation.
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)** — Hands-on remediation exercises using scripting and command-line tools to address security vulnerabilities.
 
 ## ☁️ Cloud Security & Architecture
 
